@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything DATA
 - 🌱 I’m currently learning about Big Data and Cloud Services Infrastructure
 - 💞️ I’m looking to collaborate on interesting and interactive data visualization projects
-- 📫 How to reach me : stanna97.github.io/
+- 📫 How to reach me : https://stanna97.github.io/
 
 <!---
 stanna97/stanna97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
