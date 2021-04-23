@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stanna97
 - 👀 I’m interested in anything DATA
-- 🌱 I’m currently learning about Big Data and Cloud Services Infrastructure
+- 🌱 I’m currently learning about Data Management and Cloud Services Infrastructure
 - 💞️ I’m looking to collaborate on interesting and interactive data visualization projects
 - 📫 How to reach me : stanna@stevens.edu / sagar.st.tanna@gmail.com
 
